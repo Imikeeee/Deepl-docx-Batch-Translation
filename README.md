@@ -1,5 +1,3 @@
-# Deepl-docx-Batch-Translation
-Efficient Deepl docx Batch Translation
 **Deepl-docx-Batch-Translation**
 
 The DeepL Document Translator is a Python script designed to streamline the translation of multiple .docx documents. Leveraging the power of the DeepL API, this script automates the translation process, converting documents from a source language (e.g., Hungarian) to English (EN-US) with ease.
