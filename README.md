@@ -23,7 +23,7 @@ The DeepL Document Translator is a Python script designed to streamline the tran
 3. Replace `YOUR_AUTH_KEY` with your DeepL API key in the script.
 4. Set the `input_directory` variable to the path containing the .docx files you want to translate.
 5. Set the `output_directory` variable to the path where you want to save the translated .docx files.
-6. Run the script using `python translate_documents.py`.
+6. Run the script using `python script.py`.
 7. Sit back and let the script handle the translation process for you!
 
 **License:**
